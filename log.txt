@@ -629,3 +629,79 @@ Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b
 Album: The Hits--Chapter One
 -----------------------------------
 Track Name: I Want It That Way
+Venue: Aloha Stadium Swap Meet
+Time: 7:00 pm
+Location: Honolulu, HI, United States
+Date: 12/08/2018
+-----------------------------------
+Artist(s) Name: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e46ab983d8054ef08e9fdf0784df0633
+Track Name: The Sign
+Album: The Sign (US Album) [Remastered]
+-----------------------------------
+Preview URL: https://p.scdn.co/mp3-preview/cdba05161ad423f14cfed8dde4d602248f2454da?cid=e46ab983d8054ef08e9fdf0784df0633
+Artist(s) Name: Journey
+Track Name: Open Arms
+-----------------------------------
+Album: Escape
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Score: 63/100
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------
+Title: The 'Burbs
+Year: 1989
+IMDB Rating: 6.9
+Language: English
+Country: USA
+Rotten Tomatoes Score: 44/100
+Plot: An overstressed suburbanite and his fellow neighbors are convinced that the new family on the block are part of a murderous Satanic cult.
+Actors: Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun
+-----------------------------------
+Artist(s) Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e46ab983d8054ef08e9fdf0784df0633
+-----------------------------------
+Album: The Hits--Chapter One
+Venue: Aloha Stadium Swap Meet
+Location: Honolulu, HI, United States
+Date: 12/08/2018
+Time: 7:00 pm
+-----------------------------------
+Artist(s) Name: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e46ab983d8054ef08e9fdf0784df0633
+Track Name: The Sign
+Album: The Sign (US Album) [Remastered]
+-----------------------------------
+Artist(s) Name: Journey
+Track Name: Open Arms
+-----------------------------------
+Preview URL: https://p.scdn.co/mp3-preview/cdba05161ad423f14cfed8dde4d602248f2454da?cid=e46ab983d8054ef08e9fdf0784df0633
+Album: Escape
+Year: 2009
+Title: Mr. Nobody
+Rotten Tomatoes Score: 63/100
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------
+Title: The 'Burbs
+Year: 1989
+IMDB Rating: 6.9
+Rotten Tomatoes Score: 44/100
+Plot: An overstressed suburbanite and his fellow neighbors are convinced that the new family on the block are part of a murderous Satanic cult.
+Actors: Tom Hanks, Bruce Dern, Carrie Fisher, Rick Ducommun
+Language: English
+-----------------------------------
+Country: USA
+Artist(s) Name: Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e46ab983d8054ef08e9fdf0784df0633
+Album: The Hits--Chapter One
+-----------------------------------

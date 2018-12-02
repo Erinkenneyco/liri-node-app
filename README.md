@@ -6,8 +6,8 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 I will be using the following node modules:
 
-*Node-Spotify-API
-*Moment
+*Node-Spotify-API*
+*Moment*
 *DotEnv
 *Axios- for the OMDB API and the Bands In Town API
 
